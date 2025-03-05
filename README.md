@@ -61,6 +61,11 @@ chmod +x run_pipeline.sh
 ./run_pipeline.sh
 ```
 
+### Using git bash
+```bash
+bash run_pipeline.sh
+```
+
 ### Manual Execution
 ```bash
 python scripts/generate_data.py
