@@ -114,4 +114,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Your Name - tanujkaswa23@gmail.com
 
-Project Link: [https://github.com/Tanujkaswa23/property-sales-pipeline](https://github.com/Tanujkaswa23/property-sales-pipeline)
+Project Link: [https://github.com/Tanujkaswa23/Property-Sales-Data-Pipeline](https://github.com/Tanujkaswa23/Property-Sales-Data-Pipeline)
