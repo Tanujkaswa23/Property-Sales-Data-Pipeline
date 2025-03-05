@@ -22,9 +22,8 @@ This project is a **data pipeline** that generates fake property sales data, cre
 
 ### 1️ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/property_sales_pipeline.git
-cd property_sales_pipeline
+  git clone https://github.com/yourusername/property_sales_pipeline.git
+  cd property_sales_pipeline
+
 ### 2 Create a Virtual Environment (Recommended)
-bash
-Copy
-Edit
+
