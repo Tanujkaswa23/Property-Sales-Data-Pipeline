@@ -1,0 +1,6 @@
+pandas==2.2.1
+Faker==24.1.0
+pymysql==1.1.0
+sqlalchemy==2.0.27
+pytest==8.1.1
+python-dotenv==1.0.0
