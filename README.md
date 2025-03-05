@@ -112,6 +112,6 @@ pytest tests/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - your.email@example.com
+Your Name - tanujkaswa23@gmail.com
 
-Project Link: [https://github.com/yourusername/property-sales-pipeline](https://github.com/yourusername/property-sales-pipeline)
+Project Link: [https://github.com/Tanujkaswa23/property-sales-pipeline](https://github.com/Tanujkaswa23/property-sales-pipeline)
