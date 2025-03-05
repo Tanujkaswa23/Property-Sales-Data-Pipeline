@@ -16,24 +16,24 @@ This project is an ETL (Extract, Transform, Load) pipeline for generating and ma
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/property-sales-pipeline.git
 cd property-sales-pipeline
 ```
 
-2. Create a virtual environment:
+### 2. Create a virtual environment:
 ```bash
 python -m venv myvenv
 source myvenv/bin/activate  # On Windows use: myvenv\Scripts\activate
 ```
 
-3. Install dependencies:
+### 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Configure Database
+### 4. Configure Database
 - Open `config.py`
 - Update MySQL connection details:
   - `database`: Database name
